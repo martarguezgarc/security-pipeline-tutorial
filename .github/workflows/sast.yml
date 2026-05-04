@@ -1,4 +1,4 @@
-/name: SAST con Semgrep
+name: SAST con Semgrep
 on:
   push:
     branches: [main]
